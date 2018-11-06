@@ -1,0 +1,17 @@
+{
+    "name": "uriel/srenvio",
+    "description": "Examen srenvio",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Uriel Ramirez",
+            "email": "zonykurb@yahoo.com.mx"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "jeremy-dunn/php-fedex-api-wrapper": "dev-master",
+        "symfony/console": "^4.2@dev",
+        "twbs/bootstrap": "4.1.3"
+    }
+}
